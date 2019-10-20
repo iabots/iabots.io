@@ -13501,7 +13501,7 @@ a.btn-icon-only {
 }
 
 .footer {
-  background: #D39EFB;
+  background: #fff;
   padding: 3rem 0;
 }
 .footer .col-footer .heading {
@@ -14972,7 +14972,7 @@ textarea[resize=horizontal] {
   background: #1fa2ff;
 }
 .section-shaped .shape-default {
-  background: linear-gradient(150deg, #7795f8 15%, #6772e5 70%, #555abf 94%);
+  background: linear-gradient(150deg, #D39EFB 15%, #2E64FE 70%, #8EFFFF 94%);
 }
 .section-shaped .shape-default :nth-child(1) {
   background: #7795f8;
@@ -15053,28 +15053,28 @@ textarea[resize=horizontal] {
 .section-shaped .shape-style-1 :nth-child(1) {
   left: -4%;
   bottom: auto;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(2) {
   right: 4%;
   top: 10%;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(3) {
   top: 280px;
   right: 5.66666%;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(4) {
   top: 320px;
   right: 7%;
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(5) {
   top: 38%;
   left: 1%;
   right: auto;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(6) {
   width: 200px;
@@ -15082,28 +15082,28 @@ textarea[resize=horizontal] {
   top: 44%;
   left: 10%;
   right: auto;
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(7) {
   bottom: 50%;
   right: 36%;
-  background: rgba(255, 255, 255, 0.04);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(8) {
   bottom: 70px;
   right: 2%;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(9) {
   bottom: 1%;
   right: 2%;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0);
 }
 .section-shaped .shape-style-1 :nth-child(10) {
   bottom: 1%;
   left: 1%;
   right: auto;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0);
 }
 @media (max-width: 991.98px) {
   .section-shaped .shape-style-1 span {
@@ -15119,7 +15119,7 @@ textarea[resize=horizontal] {
   background: linear-gradient(150deg, #D39EFB 15%, #2E64FE 70%, #8EFFFF 94%);
 }
 .section-shaped .shape-style-1.shape-default {
-  background: linear-gradient(150deg, #7795f8 15%, #6772e5 70%, #555abf 94%);
+  background: linear-gradient(150deg, #D39EFB 15%, #2E64FE 70%, #8EFFFF 94%);
 }
 .section-shaped .shape-style-1.shape-light {
   background: linear-gradient(150deg, shapes-light-color("step-1-gradient-bg") 15%, shapes-light-color("step-2-gradient-bg") 70%, shapes-light-color("step-3-gradient-bg") 94%);
